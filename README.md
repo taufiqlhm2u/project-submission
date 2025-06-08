@@ -15,7 +15,7 @@ The table is styled with custom CSS and is optimized for desktop and mobile view
 
 ## 💻 Demo
 
-<img src="subsi.jpg" alt="Table Screenshot" />
+<img src="subsi.png" alt="Table Screenshot" />
 
 > Try resizing your browser or open the file on a mobile device to see responsive behavior.
 
