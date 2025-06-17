@@ -12,7 +12,9 @@ This is a simple responsive HTML project that displays a table of project submis
 The table is styled with custom CSS and is optimized for desktop and mobile viewing.
 
 ---
+🔗 [View Live Calculator](https://taufiqlhm2u.github.io/project-submission/)
 
+---
 ## 💻 Demo
 
 <img src="subsi.png" alt="Table Screenshot" />
@@ -29,3 +31,4 @@ project-submission-table/
 ├── index.html     # Main HTML file
 ├── style.css      # styling
 └── README.md        # Project documentation (this file)
+ 
